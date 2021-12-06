@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/67716187/144883815-3f885827-92d7-40a5-
 
 ## Features
 * Local Storage - when the users add data we want it to be stored so that the same state is displayed when the page is refreshed.
-* Event Delegation - we add an event listener to a parent element (ul), as the <li> element doesn't exist before the user creates it.
+* Event Delegation - we add an event listener to a parent element (ul), as the list item element doesn't exist before the user creates it.
 
 ## Technologies
 Project created with:
